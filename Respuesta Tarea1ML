@@ -1,0 +1,14 @@
+*** Pregunta 1.0 Importe las librerías que usará en su tarea ***
+
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+
+
+
+
+
+
+
